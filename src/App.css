@@ -32,6 +32,8 @@ body {
 }
 
 .logo {
-  height: 30vmin;
+  position: relative;
+  height: 22vmin;
   pointer-events: none;
+  z-index: 100;
 }
